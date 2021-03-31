@@ -31,3 +31,4 @@ const Template = (args, { argTypes }) => ({
 export const Default = Template.bind({});
 export const Error = Template.bind({});
 Error.args = { error: true };
+// Comentario
